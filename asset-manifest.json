@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/hishands/static/js/app.ee0630de.chunk.js",
-    "app.js.map": "/hishands/static/js/app.ee0630de.chunk.js.map",
+    "app.js": "/hishands/static/js/app.c91daa7f.chunk.js",
+    "app.js.map": "/hishands/static/js/app.c91daa7f.chunk.js.map",
     "runtime~app.js": "/hishands/static/js/runtime~app.319088e6.js",
     "runtime~app.js.map": "/hishands/static/js/runtime~app.319088e6.js.map",
-    "static/js/2.0ee62b80.chunk.js": "/hishands/static/js/2.0ee62b80.chunk.js",
-    "static/js/2.0ee62b80.chunk.js.map": "/hishands/static/js/2.0ee62b80.chunk.js.map",
+    "static/js/2.04767e4c.chunk.js": "/hishands/static/js/2.04767e4c.chunk.js",
+    "static/js/2.04767e4c.chunk.js.map": "/hishands/static/js/2.04767e4c.chunk.js.map",
     "fonts/Ionicons.ttf": "/hishands/./fonts/Ionicons.ttf",
     "favicon-16.png": "/hishands/favicon-16.png",
     "favicon-32.png": "/hishands/favicon-32.png",
@@ -13,13 +13,13 @@
     "index.html": "/hishands/index.html",
     "manifest.json": "/hishands/manifest.json",
     "serve.json": "/hishands/serve.json",
-    "static/js/2.0ee62b80.chunk.js.LICENSE.txt": "/hishands/static/js/2.0ee62b80.chunk.js.LICENSE.txt",
+    "static/js/2.04767e4c.chunk.js.LICENSE.txt": "/hishands/static/js/2.04767e4c.chunk.js.LICENSE.txt",
     "static/media/baby-boy.png": "/hishands/static/media/baby-boy.cb4fea3c.png",
     "static/media/right-arrow_y.png": "/hishands/static/media/right-arrow_y.f950f420.png"
   },
   "entrypoints": [
     "static/js/runtime~app.319088e6.js",
-    "static/js/2.0ee62b80.chunk.js",
-    "static/js/app.ee0630de.chunk.js"
+    "static/js/2.04767e4c.chunk.js",
+    "static/js/app.c91daa7f.chunk.js"
   ]
 }
